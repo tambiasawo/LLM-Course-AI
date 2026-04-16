@@ -308,13 +308,11 @@ Are the vibes of your assistant aligned with your expectations? Why or why not?
 ## 🏗️ Activity #3: Capability Gaps Vibe Check
 
 Now test your app with prompts that require **capabilities it may not have yet**, such as:
-
 - Real-time data
 - Memory
 - External tools
 
 Examples:
-
 - “What does my schedule look like tomorrow?”
 - “What time should I leave for the airport?”
 
@@ -353,7 +351,6 @@ What are some limitations of your application?
 ## 🚀 (Optional) Improve Your App
 
 Based on your vibe check, try improving your application:
-
 - Adjust your prompt
 - Change the model
 - Add features
